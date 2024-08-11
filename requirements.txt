@@ -1,0 +1,5 @@
+dash==2.6.0
+base64
+datetime
+io
+pandas
