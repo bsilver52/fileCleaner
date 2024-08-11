@@ -1,5 +1,4 @@
 dash==2.14.1
 datetime
-io
 pandas
 gunicorn
